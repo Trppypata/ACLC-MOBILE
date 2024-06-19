@@ -1,0 +1,31 @@
+// import 'package:flutter/material.dart';
+
+// class Onboarding extends StatefulWidget {
+//   const Onboarding({super.key});
+
+//   @override
+//   State<Onboarding> createState() => _OnboardingState();
+// }
+
+// class _OnboardingState extends State<Onboarding> {
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       body: Stack(
+//         children: [
+//           PageView(
+//             children: const [
+//               Column(
+//                 children: [
+//                   Image(image: AssetImage('assets/images/Onboarding.png'),
+//                   fit: BoxFit.cover,)
+                  
+//                 ],
+//               )
+//             ],
+//           )
+//         ],
+//       ),
+//     );
+//   }
+// }

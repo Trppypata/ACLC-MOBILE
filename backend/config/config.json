@@ -1,0 +1,41 @@
+{
+  "development": {
+    "database": "agri",
+    "host": "WHTWLF",
+    "dialect": "mssql",
+    "port": 1433,
+    "dialectOptions": {
+      "options": {
+        "trustedConnection": true
+      }
+    },
+    "username": "sa",
+    "password": "123"
+  },
+  "test": {
+    "database": "agri",
+    "host": "WHTWLF",
+    "dialect": "mssql",
+    "port": 1433,
+    "dialectOptions": {
+      "options": {
+        "trustedConnection": true
+      }
+    },
+    "username": "sa",
+    "password": "123"
+  },
+  "production": {
+    "database": "agri",
+    "host": "WHTWLF",
+    "dialect": "mssql",
+    "port": 1433,
+    "dialectOptions": {
+      "options": {
+        "trustedConnection": true
+      }
+    },
+    "username": "sa",
+    "password": "123"
+  }
+}
